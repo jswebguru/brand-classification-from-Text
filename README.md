@@ -1,12 +1,3 @@
-# E-commerce Text Classification
-
-## Project Report
-
-**https://sugatagh.github.io/dsml/projects/e-commerce-text-classification/**
-
-## Kaggle Notebook
-
-**https://www.kaggle.com/code/sugataghosh/e-commerce-text-classification-tf-idf-word2vec**
 
 ## E-commerce Product Categorization
 
